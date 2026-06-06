@@ -1,0 +1,9 @@
+data/
+catboost_info/
+src/catboost_info/
+*.zip
+*.tar
+*.tar.gz
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
